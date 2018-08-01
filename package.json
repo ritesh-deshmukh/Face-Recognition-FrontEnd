@@ -2,7 +2,7 @@
   "name": "face-recognition",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/ritesh-deshmukh/Face-Recognition-FrontEnd/",
+  "homepage": "https://ritesh-deshmukh.github.io/Face-Recognition-FrontEnd/",
   "dependencies": {
     "clarifai": "^2.8.0",
     "react": "^16.4.1",
