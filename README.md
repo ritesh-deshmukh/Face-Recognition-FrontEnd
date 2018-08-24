@@ -27,9 +27,3 @@ CSS Libraries Used:
 API used:
 	
 	Clarifai - https://clarifai.com/developer/guide
-	
-
-
-Editor Used:
-	
-	Sublime Text
